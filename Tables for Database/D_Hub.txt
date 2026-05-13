@@ -1,0 +1,22 @@
+DestinationLocation_Code	D_Location	D_State	Capacity	ContactNumber_H
+HOSHOSALLCCA2	"Ashok Leyland Plant 1- Hosur,Hosur"	Karnataka		
+CHEMATDMROPA7	"Daimler India Commercial Vehicles,Kanchipuram"	Tamil Nadu		
+CHEPONLUTCCA4	"Lucas Tvs Ltd-Pondy,Pondy"	Pondicherry		
+CHENETLUTCCA1	"Lucas Tvs Ltd-Pondy,Pondy"	Pondicherry		
+CHEMTADMROPA1	"Daimler India Commercial Vehicles,Kanchipuram"	Tamil Nadu		
+HOSHOSALLCCA3	"Ashok Leyland Plant 2-Hosur,Hosur"	Karnataka		
+CHEPUZTVSHUA1	"Tvslsl-Puzhal-Hub,Chennai"	Tamil Nadu		
+CHEENNALLCCA1	"Ashok Leyland Ennore,Chennai"	Tamil Nadu		
+CHEMMATFEOPA1	"Tractors & Farms Equipments Limited,Kanchipuram"	Tamil Nadu		
+CHEOARDMROPA1	"Daimler India Commercial Vehicles,Kanchipuram"	Tamil Nadu		
+CHEPADLUTCCA1	"Lucas Tvs Ltd-Ambattur,Chennai"	Tamil Nadu		
+HOSMYSTMCCCA1	"Devalapura,Mysore"	Karnataka		
+CHEVICSDPCCA1	"Sri Devi Powder Coating Industries,Chennai"	Tamil Nadu		
+HOSMADTVSHUA1	"Tvslsl Hub Mathigiri,Hosur"	Tamil Nadu		
+CHEAMBWABCCA1	"Wabco India Ltd-Ambattur,Chennai"	Tamil Nadu		
+HOSLALWABWHA2	"Wabco India Ltd,Hosur"	Tamil Nadu		
+CHEORADMRCCB1	"Ashok Leyland Plant 2-Hosur,Hosur"	Karnataka		
+GURMANJBLCCG3	"Mookandapalli,Krishnagiri"	Tamil Nadu		
+HOSCHAALLCCA2	"Daimler India Commercial Vehicles,Kanchipuram"	Tamil Nadu		
+CHEPULTELCCA1	"Lucas Tvs Ltd-Ambattur,Chennai"	Tamil Nadu		
+LE006248	"Ashok Leyland Plant 2-Hosur,Hosur"	Karnataka		
